@@ -3,6 +3,7 @@ using Restoran.DAL.Entities;
 
 namespace Restoran.DAL
 {
+    //
     public class RestoranContext : DbContext
     {
         public RestoranContext(DbContextOptions<RestoranContext> opts) : base(opts) { }
