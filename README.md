@@ -70,7 +70,12 @@ After setting up the database, you can use these credentials to access the admin
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
+
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Full license: [LICENSE](LICENSE.txt) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 **Copyright © 2026 Tomic Vasilije**
+
+-Ovaj projekat je radjen isključivo za školske svrhe stoga molim da se slike,resursi,imena neshvataju ozbiljno jer su stavljeni kao veba.
